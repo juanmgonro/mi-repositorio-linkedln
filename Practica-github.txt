@@ -1,0 +1,38 @@
+Pagina de inicio
+Generalidades
+Novedades: Mostrar en carrito cuantos productos se han sumado.
+Separacion de tarjetas.
+
+Playeras de caballero, dama y sudaderas
+Generalidades
+Novedades: Las mismas que las del de inicio
+
+Contactanos
+Generalidades
+Como cambio el diseño, la forma en la que mostramos que un campo esta mal,
+los alerts, como desaparece la foto y mostrar de nuevo que llega el correo 
+
+Conocenos
+Generalidades
+Mostrar todos los cambios que se le hicieron, los estilos, como cambiamos las 
+tarjetas
+
+Cuenta
+Mostrar formularios, movimiento de secciones para hacerlo dinamico, estilos
+campos que se deben de llenar, alertas y su parte responsiva
+
+Mostrar en carrito
+Como se agregan los productos
+Como se borran
+Los estilos, la parte donde te suma y te entrega el total
+
+Rafa-MySQL
+Mostrar tal vez las tablas que se agregaron
+Como agregamos los admisnistradores y los productos que tendremos
+
+En esta seccion pueden ver la forma en la que los usuarios pueden acceder a sus cuentas en la pagina.
+Coo pueden ver tenemos en la parte izquierda un formulario para poder iniciar sesion con tu usuario y contraseña una vez que son llnenados correctamente y presionas el boton de incio entras a tu cuenta, en cambio si no tienes cuenta pueden observarque hay un boton que deic registarte, lo presisonas, hay un fecto que hicimos con css
+en donde muestra ahora la seccion de registrarse con todos los datos que nos piden, en dado caso de que no este bien llenbado el campo que escribiste te lo dira,
+una vez que llenas todo y te registras ya puedes ingresar a tu cuenta dsde el inicio de sesion, como pueden ver hay otro boton para esto.
+En la parte responsiva pueden ver como los cuadros se alinean verticalmente, para poder dar ese espacio de visualizacion donde uno queda arriba y el otro abajo.
+
